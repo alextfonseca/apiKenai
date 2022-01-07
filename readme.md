@@ -1,7 +1,7 @@
 # Api Kenai
 
-> Portfólio pessoal construído com HTML, Javascript e SASS, foco em mostrar minhas habilidades como desenvolvedor front-end..
-
+> api do projeto Kenai criada com node.js e express para retornar uma lista de filmes e criar novos perfis de usuários para logar na aplicação
+> 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
@@ -15,20 +15,22 @@ Para instalar o projeto, siga estas etapas:
 Linux e macOS:
 
 ```bash
-git clone https://github.com/alextfonseca/alextfonseca.github.io.git
-$ cd alextfonseca.github.io-main
+$ git clone https://github.com/alextfonseca/apiKenai
+$ cd apiKenai
+$ npm start
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/alextfonseca/alextfonseca.github.io.git
-$ cd alextfonseca.github.io-main
+$ git clone https://github.com/alextfonseca/apiKenai
+$ cd apiKenai
+$ npm start
 ```
 
 ## 🧾 Usando o projeto
 
-# <a href="https://alextfonseca.github.io">Acesse o projeto</a>
+# <a href="https://kenai-mu.vercel.app/">Acesse o projeto</a>
 
 ## 🧑‍💻 Criador
 
