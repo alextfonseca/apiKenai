@@ -3,7 +3,9 @@ const express = require("express");
 const server = express();
 server.use(express.json()); // faz com que o express entenda JSON
 
-server.listen(3333);
+// definindo a porta
+const PORT = process.env.PORT || 3333;
+server.listen(PORT);
 
 server.use(function (req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
